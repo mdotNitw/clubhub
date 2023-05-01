@@ -4,12 +4,12 @@ export default function Header() {
   return (
     <div className="header">
       <div className="headerTitles">
-        <span className="headerTitleSm">React & Node</span>
-        <span className="headerTitleLg">Blog</span>
+        <span className="headerTitleSm">NITW HUB</span>
+        <span className="headerTitleLg">Latest Info & Updates</span>
       </div>
       <img
         className="headerImg"
-        src="https://images.pexels.com/photos/1167355/pexels-photo-1167355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        src="https://nitw.ac.in/api/static/files/NIT_WARANGAL_v1_2023-4-1-11-24-46.jpg"
         alt=""
       />
     </div>
